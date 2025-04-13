@@ -1,5 +1,6 @@
 {
     "name": "Chase the donut ",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
